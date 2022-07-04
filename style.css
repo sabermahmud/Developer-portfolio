@@ -1,0 +1,40 @@
+body {
+    background-color: darkgray;
+}
+
+.welcome-note {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-bottom: 0px;
+}
+
+.name {
+    color: lightgreen;
+    font-size: 45px;
+    font-family: ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+}
+
+.short-notice {
+    color: rgb(66, 109, 80);
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'The Nautigal', cursive;
+    font-size: 35px;
+    margin-left: 50px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+p {
+    color: #fff;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {}
