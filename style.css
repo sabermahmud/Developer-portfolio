@@ -13,7 +13,7 @@ body {
 .name {
     color: lightgreen;
     font-size: 45px;
-    font-family: ;
+    font-family: 'Times New Roman', Times, serif;
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 50px;
@@ -31,10 +31,32 @@ body {
 
 p {
     color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
 }
 
 section {
     display: flex;
+    border-bottom: 5px solid rgb(220, 168, 168);
+    margin: 0%;
+    padding: 0%;
 }
 
-.half-width {}
+.half-width {
+    width: 50%;
+}
+
+.half-width image {
+    width: 100%;
+}
+
+.hire-button {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+    background-image: linear-gradient(to bottom right, black, gray);
+    text-decoration: none;
+    border: 0.5px solid #fff;
+    margin: 15px;
+    padding: 10px 40px;
+}
